@@ -1,7 +1,7 @@
 # YEAR-REVIEW
 > Get yearly PRs and commits stats of users
 
-R Quick use 
+# Quick use 
 ``npx year-review <username>``
 
 # Installation
